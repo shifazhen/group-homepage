@@ -3,8 +3,6 @@ project:
 
 website:
   title: "group homepage"
-  author: "shi_fazhen"
-  date: "2025-4-23"
   navbar:
     left:
       - href: index.qmd
