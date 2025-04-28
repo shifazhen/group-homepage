@@ -2,18 +2,18 @@ project:
   type: website
 
 website:
-  title: "group homepage"
+  title: "山顶小纵队"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: 关于小分队
+      - href: members.qmd
+        text: 成员介绍
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - lumen
     css: styles.css
     toc: true
 

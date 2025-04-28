@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "group homepage",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "我们隶属于XX大学人工智能学院，专注于自然语言处理、计算机视觉与多模态学习研究。团队由3名教授、5名博士后和15名硕博研究生组成，近三年在ACL、CVPR等顶会发表论文50余篇，承担国家重点研发计划等10余项国家级课题。\n\n\n\n\n\n\n\n\n智能对话系统\n\n\n\n\n\n图像生成模型\n\n\n\n\n\n多模态分析\n\n\n\n\n\n\n\n实验室地址\nXX大学科技园B座5层501室\n通讯方式\n📧 group@university.edu.cn\n📱 +86 138-1234-5678\n This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,61 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html#代码示例",
+    "href": "index.html#代码示例",
+    "title": "我的报告",
+    "section": "",
+    "text": "#| label: fig-chart1 #| fig-cap: “示例图表”\nimport matplotlib.pyplot as plt plt.plot([1, 2, 3]) plt.show() This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#课题组简介",
+    "href": "index.html#课题组简介",
+    "title": "group homepage",
+    "section": "",
+    "text": "我们隶属于XX大学人工智能学院，专注于自然语言处理、计算机视觉与多模态学习研究。团队由3名教授、5名博士后和15名硕博研究生组成，近三年在ACL、CVPR等顶会发表论文50余篇，承担国家重点研发计划等10余项国家级课题。"
+  },
+  {
+    "objectID": "index.html#团队成员",
+    "href": "index.html#团队成员",
+    "title": "group homepage",
+    "section": " 团队成员",
+    "text": "团队成员\n\n\n\n\n\n王教授\n\n\n王建国 教授\n wangjg@university.edu\n国家杰出青年基金获得者\n\n\n\n\n\n李博士\n\n\n李 明 副教授\n liming@university.edu\nACM 杰出会员\n\n\n\n\n\n博士生\n张伟、刘芳\n\n\n\n硕士生\n陈晨、周涛等12人\n\n\n\n合作企业\n阿里云、华为研究院"
+  },
+  {
+    "objectID": "index.html#近期成果",
+    "href": "index.html#近期成果",
+    "title": "group homepage",
+    "section": " 近期成果",
+    "text": "近期成果\n\n\n2023年 Nature子刊 发表生物计算新方法\n\n2022年 CVPR最佳论文奖\n\n2021年 国家科技进步二等奖\n\n自主研发的智能分析平台已服务100+机构"
+  },
+  {
+    "objectID": "index.html#加入我们",
+    "href": "index.html#加入我们",
+    "title": "group homepage",
+    "section": " 加入我们",
+    "text": "加入我们\n\n\n联系方式\n\n 计算机学院501室  010-12345678  扫码关注： \n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#研究亮点",
+    "href": "index.html#研究亮点",
+    "title": "group homepage",
+    "section": "",
+    "text": "智能对话系统\n\n\n\n\n\n图像生成模型\n\n\n\n\n\n多模态分析"
+  },
+  {
+    "objectID": "index.html#联系我们",
+    "href": "index.html#联系我们",
+    "title": "group homepage",
+    "section": "",
+    "text": "实验室地址\nXX大学科技园B座5层501室\n通讯方式\n📧 group@university.edu.cn\n📱 +86 138-1234-5678\n This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]

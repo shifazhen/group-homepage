@@ -1,7 +1,36 @@
 ---
 title: "group homepage"
 ---
+# 欢迎来到智能计算课题组
 
+## 课题组简介
+
+我们隶属于**XX大学人工智能学院**，专注于自然语言处理、计算机视觉与多模态学习研究。团队由3名教授、5名博士后和15名硕博研究生组成，近三年在ACL、CVPR等顶会发表论文50余篇，承担国家重点研发计划等10余项国家级课题。
+
+---
+
+## 研究亮点
+
+::: {.grid}
+![智能对话系统](images/xiaofendui1.jpg){width=600 height=400 loading=lazy caption="多轮对话决策框架"}
+
+![图像生成模型](images/xiaofendui2.jpg){width=600 height=400 loading=lazy caption="扩散模型架构示意图"}
+
+![多模态分析](images/xaiofendui.jpg){width=600 height=400 loading=lazy caption="图文跨模态关联模型"}
+:::
+
+---
+
+## 联系我们 {.sidebar}
+
+**实验室地址**  
+XX大学科技园B座5层501室
+
+**通讯方式**  
+📧 group@university.edu.cn  
+📱 +86 138-1234-5678  
+
+![抖音官方账号](images/douyin-qrcode.png){width=150 style="margin-top:20px;"}
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
