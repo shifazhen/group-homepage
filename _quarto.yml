@@ -6,7 +6,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: 关于小分队
+        text: 关于小纵队
       - href: members.qmd
         text: 成员介绍
 

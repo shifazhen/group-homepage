@@ -1,22 +1,21 @@
 ---
 title: "group homepage"
 ---
-# 欢迎来到智能计算课题组
+# 欢迎来华中农业大学资源学院山顶小纵队
 
-## 课题组简介
+## 小纵队简介
 
-我们隶属于**XX大学人工智能学院**，专注于自然语言处理、计算机视觉与多模态学习研究。团队由3名教授、5名博士后和15名硕博研究生组成，近三年在ACL、CVPR等顶会发表论文50余篇，承担国家重点研发计划等10余项国家级课题。
+小纵队于2025年4月10日参加华中农业大学资源与环境学院**狮山长走**活动
 
 ---
 
 ## 研究亮点
 
 ::: {.grid}
-![智能对话系统](images/xiaofendui1.jpg){width=600 height=400 loading=lazy caption="多轮对话决策框架"}
+![<strong>笨蛋造型师邹丽</strong>](images/xiaofendui67.jpg){width=420 height=360 loading=lazy caption="笨蛋造型师邹丽"}
 
-![图像生成模型](images/xiaofendui2.jpg){width=600 height=400 loading=lazy caption="扩散模型架构示意图"}
+![**小纵队合照**](images/xiaofendui2.jpg){width=315 height=360 loading=lazy caption="小纵队合照"}
 
-![多模态分析](images/xaiofendui.jpg){width=600 height=400 loading=lazy caption="图文跨模态关联模型"}
 :::
 
 ---
@@ -31,6 +30,7 @@ XX大学科技园B座5层501室
 📱 +86 138-1234-5678  
 
 ![抖音官方账号](images/douyin-qrcode.png){width=150 style="margin-top:20px;"}
+
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
